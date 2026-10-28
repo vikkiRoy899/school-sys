@@ -1,8 +1,0 @@
-{
-  "appId": "com.school.teacherstaff",
-  "appName": "Teacher & Staff Portal",
-  "webDir": "dist",
-  "server": {
-    "androidScheme": "https"
-  }
-}
